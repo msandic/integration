@@ -1,5 +1,5 @@
 volan
-kocnica
+kocnica.
 mjenjac
 gas
 kvacilo
