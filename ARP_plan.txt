@@ -1,0 +1,5 @@
+Modelovanje:
+- Velicina ARP tabele
+- Staticki i dinamicki zapis u ARP tabeli
+- Duzina trajanja dinamickog zapisa u ARP tabeli
+- Sta se dogadja pri prepunjavanju ARP tabele (odbacivanje novih ARP zahtjeva ili prebrisavanje najstarijih zapisa u ARP tabeli)?
